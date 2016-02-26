@@ -5,7 +5,6 @@ using System.Data;
 using System.Drawing;
 using System.Text;
 using System.Windows.Forms;
-//step1. reference nmodbuspc.dll, and using the namespaces.
 using Modbus.Device;    //for modbus master
 using System.IO.Ports;  //for serial port
 
