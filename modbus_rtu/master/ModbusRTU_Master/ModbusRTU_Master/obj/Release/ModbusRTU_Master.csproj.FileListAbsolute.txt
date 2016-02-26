@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\test1\modbus_rtu\master\ModbusRTU_Master\ModbusRTU_Master\obj\Release\ModbusRTU_Master.exe
+C:\Users\Administrator\Desktop\test1\modbus_rtu\master\ModbusRTU_Master\ModbusRTU_Master\obj\Release\ModbusRTU_Master.pdb
+C:\Users\Administrator\Desktop\test1\modbus_rtu\master\ModbusRTU_Master\ModbusRTU_Master\bin\Release\ModbusRTU_Master.exe
+C:\Users\Administrator\Desktop\test1\modbus_rtu\master\ModbusRTU_Master\ModbusRTU_Master\bin\Release\ModbusRTU_Master.pdb
+C:\Users\Administrator\Desktop\test1\modbus_rtu\master\ModbusRTU_Master\ModbusRTU_Master\bin\Release\log4net.dll
+C:\Users\Administrator\Desktop\test1\modbus_rtu\master\ModbusRTU_Master\ModbusRTU_Master\bin\Release\nmodbuspc.dll
+C:\Users\Administrator\Desktop\test1\modbus_rtu\master\ModbusRTU_Master\ModbusRTU_Master\obj\Release\ModbusRTU_Master.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\test1\modbus_rtu\master\ModbusRTU_Master\ModbusRTU_Master\obj\Release\ModbusRTU_Master.Form1.resources
+C:\Users\Administrator\Desktop\test1\modbus_rtu\master\ModbusRTU_Master\ModbusRTU_Master\obj\Release\ModbusRTU_Master.frmInputValue.resources
+C:\Users\Administrator\Desktop\test1\modbus_rtu\master\ModbusRTU_Master\ModbusRTU_Master\obj\Release\ModbusRTU_Master.Properties.Resources.resources
+C:\Users\Administrator\Desktop\test1\modbus_rtu\master\ModbusRTU_Master\ModbusRTU_Master\obj\Release\ModbusRTU_Master.csproj.GenerateResource.Cache
